@@ -1,2 +1,11 @@
-# SQL-Project Data Cleaning & Standardization
-Project Title: SQL Data Cleaning and Standardization This SQL project focuses on improving data quality by cleaning and standardizing a dataset. Key Tasks include : Trimming Blank Spaces Fixing Datatype Inconsistencies Deleting Irrelevant Rows and columns Handling NULL Values The SQL queries ensure the dataset is ready for analysis.
+# 🧹 SQL Data Cleaning & Standardization Project
+
+This project focuses on improving data quality through SQL-based cleaning and standardization techniques. Using structured queries, we prepare a raw dataset for accurate and meaningful analysis.
+
+## 🔧 Key Tasks Performed:
+- ✂️ Trimming blank spaces
+- 🔄 Fixing datatype inconsistencies
+- 🗑️ Deleting irrelevant rows and columns
+- 🧱 Handling NULL values
+
+Every query in this project is crafted to enhance data integrity and ensure the dataset is fully analysis-ready.
